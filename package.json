@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "homepage": "https://github.com/hAppser/test",
+  "homepage": "https://github.com/hAppser/node",
   "name": "mod",
   "version": "1.0.0",
   "main": "app.js",
